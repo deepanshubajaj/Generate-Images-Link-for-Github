@@ -34,6 +34,46 @@ https://github.com/user-attachments/assets/880e3a00-39b6-47ee-bdb9-710d5cf0627b
 <br># --------------------------------------
 
 
+# --------------------------------------
+# Bloom Access App Content:
+
+<br>1) Completed App<br>
+https://github.com/user-attachments/assets/77fa09d7-69bf-4fab-b0f3-1c6ffe49aa2f
+<br>2) Without OTP<br>
+https://github.com/user-attachments/assets/5f1cd32b-1ea7-4435-9d73-eb8162e4b46a
+<br>3) With OTP<br>
+https://github.com/user-attachments/assets/e46410a3-0248-43db-8c13-febcee897d3e
+<br>4) Only Signin With Google<br>
+https://github.com/user-attachments/assets/8c288025-b24e-463e-9529-d68591769661
+<br>4) App Load<br>
+https://github.com/user-attachments/assets/c49a76d0-9333-44f3-a49c-0cad78f33c03
+<br># --------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
