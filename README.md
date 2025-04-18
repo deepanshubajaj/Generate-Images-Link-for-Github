@@ -1,18 +1,24 @@
-<h1 align="center">Generate Images Links for GitHub</h1>
-
-This repository will only generate Images and Video links for GitHub Repositories.
-
 > ⚠️ **Usage Notice**  
 > All content in this repository, including the video links listed below, is protected by copyright.  
 > **No part of this repository may be used, copied, redistributed, or referenced without explicit permission.**  
 > See the [LICENSE](./LICENSE) file for full details.  
 > Contact via GitHub Issues or [profile](https://github.com/deepanshubajaj) for inquiries.
 
+---
+
+<h1 align="center">Generate Images Links for GitHub</h1>
+
+This repository will only generate Images and Video links for GitHub Repositories.
+
+---
+
 # My Video Archive
 
 This repository contains a personal collection of video links for reference purposes only.
 
 ## Contents
+
+---
 
 # --------------------------------------
 # Geeky Shop Content:
