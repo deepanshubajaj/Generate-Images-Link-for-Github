@@ -71,6 +71,47 @@ https://github.com/user-attachments/assets/c49a76d0-9333-44f3-a49c-0cad78f33c03
 
 ---
 
+# --------------------------------------
+# MemoRise App Content:
+<br>1) Create item in list<br>
+https://github.com/user-attachments/assets/83dd8ba6-7713-417c-a7ef-126c9c11c572
+<br>2) Create New List<br>
+https://github.com/user-attachments/assets/3a9c5c62-0259-44dc-ba95-5c76d5dce5cf
+<br>3) Editing and Scheduling<br>
+https://github.com/user-attachments/assets/3e36b868-43e1-4e6e-9328-e8bcca5b3f56
+<br>4) Searching<br>
+https://github.com/user-attachments/assets/25e9b0de-2b91-4833-94e6-97c3fa62012b
+<br>5) Marking<br>
+https://github.com/user-attachments/assets/f423d141-7045-492b-99fa-9811eadeb436
+<br>6) Notification<br>
+https://github.com/user-attachments/assets/f0273e7f-1532-4de0-9edd-d91359213797
+<br># --------------------------------------
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
