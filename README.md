@@ -89,12 +89,22 @@ https://github.com/user-attachments/assets/f0273e7f-1532-4de0-9edd-d91359213797
 
 ---
 
+# --------------------------------------
+# Netflix App Email Content:
+<br>![netflixLogo](https://github.com/user-attachments/assets/3ee1baed-8863-45eb-a35e-104f61d69d8e)
+<br># --------------------------------------
 
-![netflixLogo](https://github.com/user-attachments/assets/3ee1baed-8863-45eb-a35e-104f61d69d8e)
+---
 
+# --------------------------------------
+# String Calculator TDD Kata Content:
+<br>1) Light Theme<br>
+https://github.com/user-attachments/assets/0f8addae-f9cb-468a-9351-3f660009efc0
+<br>2) Dark Theme<br>
+https://github.com/user-attachments/assets/ef4a97bf-8464-4c99-8461-f9c3a49e0277
+<br># --------------------------------------
 
-
-
+---
 
 
 
