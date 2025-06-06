@@ -114,6 +114,20 @@ https://github.com/user-attachments/assets/928202a6-33a9-4238-b5bc-0296ab213eb9
 
 ---
 
+# --------------------------------------
+# Up2Date News Web App Content:
+<br>1) working video<br>
+https://github.com/user-attachments/assets/abe6b86b-40ab-4711-84cb-4ce7fe1388a4
+<br># --------------------------------------
+
+---
+
+
+
+
+
+
+
 
 
 
