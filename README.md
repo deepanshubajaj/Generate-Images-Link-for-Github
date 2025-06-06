@@ -106,6 +106,21 @@ https://github.com/user-attachments/assets/ef4a97bf-8464-4c99-8461-f9c3a49e0277
 
 ---
 
+# --------------------------------------
+# Reportrix Web App Content:
+<br>1) working video<br>
+https://github.com/user-attachments/assets/928202a6-33a9-4238-b5bc-0296ab213eb9
+<br># --------------------------------------
+
+---
+
+
+
+
+
+
+
+
 
 
 
