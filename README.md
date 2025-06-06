@@ -122,6 +122,22 @@ https://github.com/user-attachments/assets/abe6b86b-40ab-4711-84cb-4ce7fe1388a4
 
 ---
 
+# --------------------------------------
+# Insight Daily App Content:
+<br>1) working video<br>
+https://github.com/user-attachments/assets/0d1ddaeb-e092-4ec7-b391-23646bda1f88
+<br># --------------------------------------
+
+---
+
+
+
+
+
+
+
+
+
 
 
 
